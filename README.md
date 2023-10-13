@@ -9,7 +9,7 @@ Demonstrate using prompts to set up a basic Orders service.
 ### Prompts
 *make sure to run these prompts while in the code files NOT while in the README.md*
 ```
-> create a simple nodejs and express server
+> create a simple nodejs and express web app
 > my app returns an error saying it can't find module 'express'
 > create a package.json
 > create a route module for 'orders'
