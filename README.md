@@ -19,6 +19,7 @@ Copy the code in `simple-service/routes/orders.js` to the new orders route modul
 ```
 > create the orderController module
 > create my order model
+> create my item model
 > update my package.json for new dependencies
 
 ```
